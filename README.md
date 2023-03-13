@@ -1,1 +1,1 @@
-# Free-windows-10-License
+Run command prompt as admin and click yes.
